@@ -25,7 +25,7 @@
   "devDependencies": {
     "buble": "^0.18.0",
     "chai": "^4.1.2",
-    "eslint": "^4.15.0",
+    "eslint": "^8.28.0",
     "eslint-plugin-mocha": "^4.11.0",
     "jsdom": "11.5.1",
     "jsdom-global": "3.0.2",
